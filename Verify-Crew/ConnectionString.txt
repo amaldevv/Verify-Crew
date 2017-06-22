@@ -1,0 +1,46 @@
+================================================================================
+Showing Details
+================================================================================
+
+
+================================================================================
+marsiottrv IoT Hub Details
+--------------------------------------------------------------------------------
+Location       Name        ResourceGroup    Resourcegroup    Subscriptionid
+-------------  ----------  ---------------  ---------------  ------------------------------------
+southeastasia  marsiottrv  marsgrouptrv     marsgrouptrv     94cb4825-905f-4b1d-b688-afb7455802f8
+
+
+================================================================================
+marsiottrv IoT Hub consumer groups
+--------------------------------------------------------------------------------
+$Default
+team01
+team02
+team03
+team04
+team05
+team06
+team07
+team08
+team09
+team10
+
+
+================================================================================
+marsiottrv IoT Hub iothubowner connection string - Used by presenters
+--------------------------------------------------------------------------------
+HostName=marsiottrv.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=+kA9n03Q+s6Lc4KCyXUfytBwitTj6Y0m3heFB7sgS3s=
+
+
+================================================================================
+marsiottrv IoT Hub coffeeclient connection string - Used by attendees
+--------------------------------------------------------------------------------
+HostName=marsiottrv.azure-devices.net;SharedAccessKeyName=coffeeclient;SharedAccessKey=LXa9BScl0oqjwpGYwF9RG7pjiE0cYdzvoH9ysinUHMY=
+
+
+================================================================================
+coffeepot device connection string
+--------------------------------------------------------------------------------
+HostName=marsiottrv.azure-devices.net;DeviceId=coffeepot;SharedAccessKey=V7pW8GuYewfm43DUDvK+3octOy8of2Ep+38nWbc+GUU=
+
